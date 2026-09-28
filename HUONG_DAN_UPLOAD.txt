@@ -1,0 +1,20 @@
+BẢN PWA v2 - UPLOAD GITHUB TRÊN iPHONE
+
+Chỉ có 5 file, tất cả nằm cùng một cấp:
+1. index.html
+2. manifest.webmanifest
+3. sw.js
+4. icon-192.png
+5. icon-512.png
+
+KHÔNG có thư mục vendor.
+
+Cách làm:
+- Giải nén ZIP trong ứng dụng Files.
+- Mở thư mục TraCuuNNT_iPhone_PWA_v2_iPhoneUpload.
+- Trên GitHub chọn uploading an existing file.
+- Chọn 5 file ở trên và upload.
+- Commit changes.
+- Sau đó vào Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+Lưu ý: không upload hóa đơn XML/ZIP thật lên GitHub.
